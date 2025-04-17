@@ -18,4 +18,8 @@ streamlit run ui.py
 deactivate
 ```
 # System architecture
-![image](https://github.com/user-attachments/assets/06733d71-007e-49cc-94f2-3e643b5c734f)
+![image](https://github.com/user-attachments/assets/34aaebca-a701-467f-b1f8-7e0ff496435a)
+
+# Video Demo
+[![Watch the video demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://youtu.be/OEZfSHv0VEE)
+
